@@ -1,0 +1,30 @@
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.deps.json
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Domain.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Domain.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.csproj.AssemblyReference.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.AssemblyInfoInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.AssemblyInfo.cs
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicRev.F9A831A3.Up2Date
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\refint\MusicReview.Infrastructure.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\ref\MusicReview.Infrastructure.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.deps.json
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Infrastructure.pdb
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Domain.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\bin\Debug\net9.0\MusicReview.Domain.pdb
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.AssemblyInfo.cs
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicRev.F9A831A3.Up2Date
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\refint\MusicReview.Infrastructure.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\MusicReview.Infrastructure.pdb
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Infrastructure\obj\Debug\net9.0\ref\MusicReview.Infrastructure.dll

@@ -1,0 +1,24 @@
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.deps.json
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.csproj.AssemblyReference.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.AssemblyInfoInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.AssemblyInfo.cs
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.csproj.CoreCompileInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\refint\MusicReview.Domain.dll
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview.Domain\obj\Debug\net9.0\ref\MusicReview.Domain.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.deps.json
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\bin\Debug\net9.0\MusicReview.Domain.pdb
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.csproj.AssemblyReference.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.AssemblyInfoInputs.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.AssemblyInfo.cs
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.csproj.CoreCompileInputs.cache
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\refint\MusicReview.Domain.dll
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\MusicReview.Domain.pdb
+C:\Users\saqis\Downloads\MusicReview\MusicReview\MusicReview.Domain\obj\Debug\net9.0\ref\MusicReview.Domain.dll
