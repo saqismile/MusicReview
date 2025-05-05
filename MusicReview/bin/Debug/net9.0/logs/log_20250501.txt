@@ -1,0 +1,6 @@
+[22:29:55] INFO: Fetching songs for genre: indie
+[22:30:23] INFO: Saved 7 songs to Songs_indie_20250501_223023.txt
+[22:36:45] INFO: Fetching songs for genre: rock
+[22:36:48] INFO: Saved 7 songs to Songs_rock_20250501_223648.txt
+[22:58:42] INFO: Fetching songs for genre: pop
+[22:58:48] INFO: Saved 7 songs to Songs_pop_20250501_225848.txt

@@ -1,0 +1,2 @@
+[14:05:51] INFO: Fetching songs for genre: pop
+[14:05:53] INFO: Saved 7 songs to Songs_20250505_140553.txt

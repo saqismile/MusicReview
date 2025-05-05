@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dQOCY7iIxhE=",
+  "dgSpecHash": "l4ldvX3LN9k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
+  "projectFilePath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saqis\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
     "C:\\Users\\saqis\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.4\\microsoft.extensions.primitives.9.0.4.nupkg.sha512"

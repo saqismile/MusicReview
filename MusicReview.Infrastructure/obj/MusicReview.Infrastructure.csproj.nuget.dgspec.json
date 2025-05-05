@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj": {}
+    "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj": {
+    "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
         "projectName": "MusicReview.Domain",
-        "projectPath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
+        "projectPath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj",
         "packagesPath": "C:\\Users\\saqis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\obj\\",
+        "outputPath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj": {
+    "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj",
+        "projectUniqueName": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj",
         "projectName": "MusicReview.Infrastructure",
-        "projectPath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj",
+        "projectPath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Infrastructure\\MusicReview.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\saqis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Infrastructure\\obj\\",
+        "outputPath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -107,8 +107,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj": {
-                "projectPath": "C:\\Users\\saqis\\Downloads\\MusicReview\\MusicReview\\MusicReview.Domain\\MusicReview.Domain.csproj"
+              "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj": {
+                "projectPath": "D:\\Projects\\MusicReview\\usicReview\\MusicReview.Domain\\MusicReview.Domain.csproj"
               }
             }
           }

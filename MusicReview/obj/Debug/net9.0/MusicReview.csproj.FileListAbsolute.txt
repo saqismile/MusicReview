@@ -1,0 +1,14 @@
+C:\Data\Sample Projects\MusicReview\MusicReview\bin\Debug\net9.0\MusicReview.exe
+C:\Data\Sample Projects\MusicReview\MusicReview\bin\Debug\net9.0\MusicReview.deps.json
+C:\Data\Sample Projects\MusicReview\MusicReview\bin\Debug\net9.0\MusicReview.runtimeconfig.json
+C:\Data\Sample Projects\MusicReview\MusicReview\bin\Debug\net9.0\MusicReview.dll
+C:\Data\Sample Projects\MusicReview\MusicReview\bin\Debug\net9.0\MusicReview.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.AssemblyInfoInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.AssemblyInfo.cs
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.csproj.CoreCompileInputs.cache
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.dll
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\refint\MusicReview.dll
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.pdb
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\MusicReview.genruntimeconfig.cache
+C:\Data\Sample Projects\MusicReview\MusicReview\obj\Debug\net9.0\ref\MusicReview.dll
